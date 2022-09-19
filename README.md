@@ -5,7 +5,7 @@
 
 ### Contact me:
 - mail: Yankelll86@mail.ru
-- Tel: 8(920) 659-13-65
+- Tel.: +7(920)659-13-65
 
 <!--
 **Iankel86/Iankel86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
