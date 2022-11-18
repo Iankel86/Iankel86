@@ -8,6 +8,10 @@
 - Tel.: (+995)-52-222-06-13
 - Telegram - @IanShadrin
 
+
+
+- https://raw.githubusercontent.com/OldCodersClub/.github/master/assets/rick.gif?raw=true
+
 <!--
 **Iankel86/Iankel86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
