@@ -10,7 +10,7 @@
 
 
 
-- https://raw.githubusercontent.com/OldCodersClub/.github/master/assets/rick.gif?raw=true
+https://raw.githubusercontent.com/OldCodersClub/.github/master/assets/rick.gif?raw=true
 
 <!--
 **Iankel86/Iankel86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
