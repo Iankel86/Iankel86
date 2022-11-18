@@ -9,8 +9,8 @@
 - Telegram - @IanShadrin
 
 
+![rick and morti](https://user-images.githubusercontent.com/88619378/202723468-ef09748f-2288-4361-8aea-9920b2ca635f.gif)
 
-https://raw.githubusercontent.com/OldCodersClub/.github/master/assets/rick.gif?raw=true
 
 <!--
 **Iankel86/Iankel86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
