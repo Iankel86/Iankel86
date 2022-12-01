@@ -1,6 +1,5 @@
 ### Hi there 👋   I'm Ian and i'm python-developer
 
-### Yandex.Practicum student
 ### Languages and Tools: Python 3.7+ / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / HTML5 / CSS / Linux / Nginx / Unittest
 
 ### Contact me:
