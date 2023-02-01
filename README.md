@@ -8,7 +8,7 @@
 - Telegram - @IanShadrin
 - https://iankel86.github.io/rsschool-cv/
 
-А это мой первый первобытный сайт с мая 2022 года =)
+А это мой первый первобытный сайт написаный в мае 2022 года =)
 - http://yankel.pythonanywhere.com/
 
 
