@@ -8,6 +8,9 @@
 - Telegram - @IanShadrin
 - https://iankel86.github.io/rsschool-cv/
 
+А это мой первый первобытный сайт с мая 2022 года =)
+- http://yankel.pythonanywhere.com/
+
 
 ![rick and morti](https://user-images.githubusercontent.com/88619378/202723468-ef09748f-2288-4361-8aea-9920b2ca635f.gif)
 
