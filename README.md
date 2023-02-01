@@ -1,6 +1,6 @@
-### Hi there 👋   I'm Ian and i'm python-developer
+### Hi there 👋   I'm Ian
 
-### Languages and Tools: Python 3.7+ / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / HTML5 / CSS / Linux / Nginx / Unittest
+### Languages and Tools: Python 3.7+ / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / HTML5 / CSS / Linux / Nginx / Unittest // JS / Vue.js / Figma
 
 ### Contact me:
 - mail: Yankelll86@mail.ru
