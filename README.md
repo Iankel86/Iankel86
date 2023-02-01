@@ -6,6 +6,7 @@
 - mail: Yankelll86@mail.ru
 - Tel.: (+995)-52-222-06-13
 - Telegram - @IanShadrin
+- https://iankel86.github.io/rsschool-cv/
 
 
 ![rick and morti](https://user-images.githubusercontent.com/88619378/202723468-ef09748f-2288-4361-8aea-9920b2ca635f.gif)
