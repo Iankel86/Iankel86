@@ -3,7 +3,7 @@
 ### Languages and Tools: Python 3.7+ / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / HTML5 / CSS / Linux / Nginx / Unittest // JS / Vue.js / Figma
 
 ### Contact me:
-- mail: Yankelll86@mail.ru
+- mail: Yankelll86@gmail.com
 - Tel.: (+995)-52-222-06-13
 - Telegram - @IanShadrin
 - https://iankel86.github.io/rsschool-cv/
