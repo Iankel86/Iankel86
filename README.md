@@ -1,14 +1,15 @@
 ### Hi there 👋   I'm Ian
 
-### Languages and Tools: Python 3.7+ / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / HTML5 / CSS / Linux / Nginx / Unittest // JS / Vue.js / Figma
+### Languages and Tools: JS / HTML5 / CSS / Vue.js / Quasar / Figma / VSCode / GitHab / Python 3.7+ / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / Nginx / Unittest
 
 ### Contact me:
 - mail: Yankelll86@gmail.com
-- Tel.: (+995)-52-222-06-13
+- Tel.: (+7)-920-659-13-65
 - Telegram - @IanShadrin
-- https://iankel86.github.io/rsschool-cv/
 
-А это мой первый первобытный сайт написаный в мае 2022 года =)
+Это последний мой пет-проект:
+- https://rolling-scopes-school.github.io/iankel86-JSFE2023Q4/coffee-house/index.html
+А это мой первый первобытный сайт написаный еще в мае 2022 года =) (основной упор был на бэк, а не на фронт, поэтому прошу простить )
 - http://yankel.pythonanywhere.com/
 
 
