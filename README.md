@@ -1,4 +1,5 @@
 ### Hi there 👋   I'm Ian
+### Sorry, but since I'm working and all projects are hidden, it's empty here =)
 
 ### Languages and Tools: JS / HTML5 / CSS / Vue.js / Quasar / Figma / VSCode / GitHab / Python 3.7+ / Django / Django RESTFramework / PostgreSQL / Docker / Yandex.Cloud / Nginx / Unittest
 
